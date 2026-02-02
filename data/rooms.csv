@@ -1,0 +1,3 @@
+id,type,pricePerNight,isAvailable
+101,Single,10000,0
+102,Double,15000,1

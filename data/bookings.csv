@@ -1,0 +1,2 @@
+bookingId,roomId,customerName,contactNumber,checkInDate,checkOutDate
+1,101,Anton,0123456789,2026-02-04,2026-02-06
